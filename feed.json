@@ -1,0 +1,858 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Lloyd Davis",
+	"icon": "https://micro.blog/lloyddavis/avatar.jpg",
+	"home_page_url": "https://lloyddavis.micro.blog/",
+	"feed_url": "https://lloyddavis.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://lloyddavis.micro.blog/2024/12/11/in-the-style.html",
+				
+				"content_html": "<p>In the style of the &ldquo;how old are you in internet years?&rdquo; meme.  I realise that I&rsquo;m &ldquo;put up with parsing an RSS feed and making it into a data structure, rather than looking for a JSON version of the same&rdquo; old.</p>\n",
+				"content_text": "In the style of the \"how old are you in internet years?\" meme.  I realise that I'm \"put up with parsing an RSS feed and making it into a data structure, rather than looking for a JSON version of the same\" old.\n",
+				"date_published": "2024-12-11T10:14:01+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/12/11/in-the-style.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/12/04/audioblog-wed-dec.html",
+				"title": "Audioblog: Wed 4 Dec 2024",
+				"content_html": "<p>If I&rsquo;ve done this right, the feed should be at <a href=\"https://lloyddavis.micro.blog/podcast.xml\">lloyddavis.micro.blog/podcast.x&hellip;</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "If I've done this right, the feed should be at [lloyddavis.micro.blog/podcast.x...](https://lloyddavis.micro.blog/podcast.xml)\n\n<audio controls=\"controls\" src=\"https://lloyddavis.micro.blog/uploads/2024/f152bfd6c0.mp3\" preload=\"metadata\"></audio>\n",
+				"date_published": "2024-12-04T13:02:28+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/12/04/audioblog-wed-dec.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/12/04/the-observer-is.html",
+				
+				"content_html": "<p>&ldquo;The Observer&rdquo; is to the chattering classes what &ldquo;The Spirit of the Blitz&rdquo; is to the Clarkson/Farage axis.  You don&rsquo;t love The Observer, you loved being a kid and cutting up the Sunday Supplement and making collages out of it with clippings from Radio Times.</p>\n<p>Still.  A picket line is a picket line.</p>\n",
+				"content_text": "\"The Observer\" is to the chattering classes what \"The Spirit of the Blitz\" is to the Clarkson/Farage axis.  You don't love The Observer, you loved being a kid and cutting up the Sunday Supplement and making collages out of it with clippings from Radio Times.\r\n\r\nStill.  A picket line is a picket line. \n",
+				"date_published": "2024-12-04T10:44:01+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/12/04/the-observer-is.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/12/03/a-time-check.html",
+				
+				"content_html": "<p>A time check:</p>\n<p>I&rsquo;m now in the last three weeks of my fifties.</p>\n",
+				"content_text": "A time check:\r\n\r\nI'm now in the last three weeks of my fifties.\n",
+				"date_published": "2024-12-03T14:47:11+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/12/03/a-time-check.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/12/03/never-meet-your.html",
+				
+				"content_html": "<p><a href=\"https://en.wiktionary.org/wiki/never_meet_your_heroes\">Never meet your heroes</a>, even accidentally.</p>\n<p>No, I&rsquo;m not going to go into details., but man!</p>\n",
+				"content_text": "[Never meet your heroes](https://en.wiktionary.org/wiki/never_meet_your_heroes\r\n), even accidentally.\r\n\r\nNo, I'm not going to go into details., but man!\n",
+				"date_published": "2024-12-03T10:51:38+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/12/03/never-meet-your.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/28/years-ago-the.html",
+				
+				"content_html": "<p>3 years ago: the state of text-to-image.  I made a set of images using &ldquo;VQGAN+CLIP via hypnogram.xyz&rdquo; to depict &ldquo;George Orwell taking LSD&rdquo; with a variety of historical figures who popped into my head.</p>\n<p><a href=\"https://www.flickr.com/photos/lloyd-davis/albums/72157720213495685/\">www.flickr.com/photos/ll&hellip;</a></p>\n",
+				"content_text": "3 years ago: the state of text-to-image.  I made a set of images using \"VQGAN+CLIP via hypnogram.xyz\" to depict \"George Orwell taking LSD\" with a variety of historical figures who popped into my head.\r\n\r\n[www.flickr.com/photos/ll...](https://www.flickr.com/photos/lloyd-davis/albums/72157720213495685/)\n",
+				"date_published": "2024-11-28T09:56:12+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/28/years-ago-the.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/28/at-bclxiii-barcamplondon.html",
+				
+				"content_html": "<p>At #bclxiii (barcamplondon thirteen) I told people (and myself) that I&rsquo;d only been at #bcl3 and #bclx (many other barcamps just not the London one).</p>\n<p>Turns out I was lying.  There&rsquo;s evidence that I was at #bcl8 too - <a href=\"https://flic.kr/p/8TXtum\">flic.kr/p/8TXtum</a> talking about Tuttle2Texas of all things.</p>\n",
+				"content_text": "At #bclxiii (barcamplondon thirteen) I told people (and myself) that I'd only been at #bcl3 and #bclx (many other barcamps just not the London one). \r\n\r\nTurns out I was lying.  There's evidence that I was at #bcl8 too - [flic.kr/p/8TXtum](https://flic.kr/p/8TXtum) talking about Tuttle2Texas of all things.\n",
+				"date_published": "2024-11-28T09:53:38+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/28/at-bclxiii-barcamplondon.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/26/after-years-of.html",
+				
+				"content_html": "<p>After 20 years of being trained to use web-mail, I think I might be ready to slouch back to something desktop-based (mainly because multiple accounts with different providers).  What are you using, cool kids?</p>\n",
+				"content_text": "After 20 years of being trained to use web-mail, I think I might be ready to slouch back to something desktop-based (mainly because multiple accounts with different providers).  What are you using, cool kids?\n",
+				"date_published": "2024-11-26T10:21:55+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/26/after-years-of.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/25/im-waiting-for.html",
+				
+				"content_html": "<p>I’m waiting for a (non-urgent) telephone appointment with my GP. It was scheduled for 19 minutes ago. I’m reminding myself that this <em>is</em> more convenient than walking over to the surgery and sitting in the waiting room, despite my increasing levels of impatience. #LoveNHS</p>\n",
+				"content_text": "I’m waiting for a (non-urgent) telephone appointment with my GP. It was scheduled for 19 minutes ago. I’m reminding myself that this *is* more convenient than walking over to the surgery and sitting in the waiting room, despite my increasing levels of impatience. #LoveNHS\n",
+				"date_published": "2024-11-25T08:50:20+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/25/im-waiting-for.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/19/my-friends-in.html",
+				
+				"content_html": "<p>My friends in the Midlands are posting pics of snow.  One of the punishments associated with living in the South of England is that instead of snow, we just get pissed on.  Of course to many southern-born folk, this is something they enjoy.</p>\n",
+				"content_text": "My friends in the Midlands are posting pics of snow.  One of the punishments associated with living in the South of England is that instead of snow, we just get pissed on.  Of course to many southern-born folk, this is something they enjoy.\n",
+				"date_published": "2024-11-19T12:44:05+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/19/my-friends-in.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/19/it-does-feel.html",
+				
+				"content_html": "<p>It does feel like there&rsquo;s a lot of &ldquo;40 years on&rdquo; nostalging at the moment, but perhaps it&rsquo;s because it&rsquo;s all about a time that felt so important to me as I emerged from my teens.</p>\n",
+				"content_text": "It does feel like there's a lot of \"40 years on\" nostalging at the moment, but perhaps it's because it's all about a time that felt so important to me as I emerged from my teens.\n",
+				"date_published": "2024-11-19T12:01:15+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/19/it-does-feel.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/18/theres-more-than.html",
+				
+				"content_html": "<p>There&rsquo;s more than one way to skin a cat, but I&rsquo;m not allowed to say that in our house any more (ditto comments about how little room there is in my office).</p>\n",
+				"content_text": "There's more than one way to skin a cat, but I'm not allowed to say that in our house any more (ditto comments about how little room there is in my office).\n",
+				"date_published": "2024-11-18T15:49:04+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/18/theres-more-than.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/16/im-going-to.html",
+				
+				"content_html": "<p>I’m going to <a href=\"https://thirteen.barcamplondon.org/\">barcamplondon xiii</a> next week. I went to number 3 in 2007 and number 10 in 2014. There’s an arithmetical gag in there somewhere.</p>\n",
+				"content_text": "I’m going to [barcamplondon xiii](https://thirteen.barcamplondon.org/) next week. I went to number 3 in 2007 and number 10 in 2014. There’s an arithmetical gag in there somewhere. \n",
+				"date_published": "2024-11-16T14:26:28+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/16/im-going-to.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/15/good-lord-its.html",
+				
+				"content_html": "<p>Good lord! It&rsquo;s Friday afternoon again.</p>\n",
+				"content_text": "Good lord! It's Friday afternoon again.\n",
+				"date_published": "2024-11-15T15:52:12+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/15/good-lord-its.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/15/ok-im-seeing.html",
+				"title": "OK.  I'm seeing many places where this needs saying.",
+				"content_html": "<p>Many things can be true at the same time.</p>\n<p>Even things that you have always thought were mutually exclusive.</p>\n<p>I think the work for us to do now involves making spaces (within and between ourselves) in which all the overlapping, layered narratives can live, rather than trying to find one unifying story for us all to get behind.</p>\n<p>It&rsquo;s work, it&rsquo;s not easy, it&rsquo;s not necessarily how we were raised, or how we&rsquo;ve lived for most of our lives, or even how we&rsquo;d like it to be.</p>\n",
+				"content_text": "Many things can be true at the same time.  \r\n\r\nEven things that you have always thought were mutually exclusive.  \r\n\r\nI think the work for us to do now involves making spaces (within and between ourselves) in which all the overlapping, layered narratives can live, rather than trying to find one unifying story for us all to get behind.  \r\n\r\nIt's work, it's not easy, it's not necessarily how we were raised, or how we've lived for most of our lives, or even how we'd like it to be.  \n",
+				"date_published": "2024-11-15T12:58:54+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/15/ok-im-seeing.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/12/a-bit-of.html",
+				"title": "A bit of data with associated metadata",
+				"content_html": "<p>More of this kind of thing.  It&rsquo;s for a thing.  You don&rsquo;t need to know what the thing is yet.  I don&rsquo;t really know what the thing is yet.</p>\n<p>In other words I&rsquo;m testing and need some data to play with.  Data that is published today.  You&rsquo;re reading it.  Except nobody is reading it.  I don&rsquo;t think anyone&rsquo;s reading it, anyway.</p>\n",
+				"content_text": "More of this kind of thing.  It's for a thing.  You don't need to know what the thing is yet.  I don't really know what the thing is yet.\r\n\r\nIn other words I'm testing and need some data to play with.  Data that is published today.  You're reading it.  Except nobody is reading it.  I don't think anyone's reading it, anyway.\r\n\r\n",
+				"date_published": "2024-11-12T09:10:40+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/12/a-bit-of.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/11/and-heres-another.html",
+				
+				"content_html": "<p>And here&rsquo;s another thing.</p>\n<p>It needs to be a bit longer and have some paragraphs in it.</p>\n<p>I don&rsquo;t know whether there&rsquo;s a way of adding a title for a post that is less than three hundred characters long, but it&rsquo;s probably easier to write that many characters in order to find out than it is to go and look for the answer elsewhere.</p>\n<p>Here&rsquo;s a picture too!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "And here's another thing.\r\n\r\nIt needs to be a bit longer and have some paragraphs in it.  \r\n\r\nI don't know whether there's a way of adding a title for a post that is less than three hundred characters long, but it's probably easier to write that many characters in order to find out than it is to go and look for the answer elsewhere.\r\n\r\nHere's a picture too!\n\n<img src=\"uploads/2024/329413346-490654193277203-2783638880233410547-n.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-11T11:05:16+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/11/and-heres-another.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/11/im-just-putting.html",
+				
+				"content_html": "<p>I&rsquo;m just putting this here so that there&rsquo;s something to see.</p>\n",
+				"content_text": "I'm just putting this here so that there's something to see.\n",
+				"date_published": "2024-11-11T11:02:20+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/11/im-just-putting.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/01/last-night-i.html",
+				
+				"content_html": "<p>Last night, I was cooking dinner and had a flashback to cooking dinner in the 90s: same me, different kitchen, different wife, two small children. And I thought “I’ve been doing this a long time”. I don’t want to stop. Takeaways and restaurants aren’t the same. But it’s been a long time.</p>\n",
+				"content_text": "Last night, I was cooking dinner and had a flashback to cooking dinner in the 90s: same me, different kitchen, different wife, two small children. And I thought “I’ve been doing this a long time”. I don’t want to stop. Takeaways and restaurants aren’t the same. But it’s been a long time. \n",
+				"date_published": "2024-11-01T10:58:03+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/01/last-night-i.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/11/01/theres-definitely-something.html",
+				
+				"content_html": "<p>There’s definitely <em>something</em> going on.</p>\n",
+				"content_text": "There’s definitely *something* going on. \n",
+				"date_published": "2024-11-01T10:49:48+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/11/01/theres-definitely-something.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/10/31/did-only-murders.html",
+				
+				"content_html": "<p>Did &ldquo;Only Murders In The Building&rdquo; jump the shark in Season 4?  It feels like it was teetering towards it but got pulled back from the brink a couple of times.</p>\n",
+				"content_text": "Did \"Only Murders In The Building\" jump the shark in Season 4?  It feels like it was teetering towards it but got pulled back from the brink a couple of times. \n",
+				"date_published": "2024-10-31T12:00:44+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/10/31/did-only-murders.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/10/04/if-only-someone.html",
+				
+				"content_html": "<p>If only someone would put together a YouTube playlist of Lloyd singing with his ukulele!</p>\n<p><a href=\"https://youtube.com/playlist?list=PLUum4HSvM6qoS7a0bWZ6V4C-a-YiIW23x\">Ukulele Buffoon</a></p>\n",
+				"content_text": "If only someone would put together a YouTube playlist of Lloyd singing with his ukulele!\n\n[Ukulele Buffoon](https://youtube.com/playlist?list=PLUum4HSvM6qoS7a0bWZ6V4C-a-YiIW23x)\n",
+				"date_published": "2024-10-04T10:28:59+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/10/04/if-only-someone.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/10/02/the-day-of.html",
+				
+				"content_html": "<p>The day of the big event. We’d been kept waiting in the hotel room all day. It was hot and I was wearing a woolen suit and tie. My mother, who was responsible for all the waiting, said to me, in front of everyone “you’re a bit smelly, love, did you wash properly this morning?” #lastnightsdream</p>\n",
+				"content_text": "The day of the big event. We’d been kept waiting in the hotel room all day. It was hot and I was wearing a woolen suit and tie. My mother, who was responsible for all the waiting, said to me, in front of everyone “you’re a bit smelly, love, did you wash properly this morning?” #lastnightsdream\n",
+				"date_published": "2024-10-02T07:08:35+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/10/02/the-day-of.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/30/can-the-guard.html",
+				
+				"content_html": "<p>“Can the guard contact the driver?” are words you don’t really want to hear.</p>\n",
+				"content_text": "“Can the guard contact the driver?” are words you don’t really want to hear. \n",
+				"date_published": "2024-09-30T10:18:51+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/30/can-the-guard.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/25/still-processing-last.html",
+				
+				"content_html": "<p>Still processing last night&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Still processing last night...\n\n<img src=\"uploads/2024/461330210-18457838380063469-3651511130203667128-n.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-09-25T09:05:33+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/25/still-processing-last.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/13/this-was-the.html",
+				
+				"content_html": "<p>This was the morning after the night before, a couple of days ago.</p>\n<p>I&rsquo;m so asynchronous!</p>\n<p>Fresh Kentish hops, baby!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This was the morning after the night before, a couple of days ago.  \r\n\r\nI'm so asynchronous!\r\n\r\nFresh Kentish hops, baby!\n\n<img src=\"uploads/2024/img-8364.png\" width=\"600\" height=\"265\" alt=\"\">\n",
+				"date_published": "2024-09-13T09:15:03+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/13/this-was-the.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/09/this-looks-great.html",
+				
+				"content_html": "<p>This looks great. And similar to approx 97% of my dreams.</p>\n<p><a href=\"https://www.youtube.com/watch?v=MxMa7PaxUP8\">www.youtube.com/watch</a></p>\n",
+				"content_text": "This looks great. And similar to approx 97% of my dreams. \n\n[www.youtube.com/watch](https://www.youtube.com/watch?v=MxMa7PaxUP8)\n",
+				"date_published": "2024-09-09T10:54:40+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/09/this-looks-great.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/08/people-need-to.html",
+				
+				"content_html": "<p>People need to be told &ldquo;yes! that sounds great! we can do that!&rdquo; (the thing they&rsquo;ve always dreamed of but never quite managed to do [or keep doing] and that they&rsquo;ve just been really brave to articulate to you)</p>\n",
+				"content_text": "People need to be told \"yes! that sounds great! we can do that!\" (the thing they've always dreamed of but never quite managed to do [or keep doing] and that they've just been really brave to articulate to you)\n",
+				"date_published": "2024-09-08T09:25:31+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/08/people-need-to.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/08/web-hosting-blues.html",
+				"title": "Web Hosting Blues",
+				"content_html": "<p>I registered my first domain in July 2001 with the same company that my father was using (for hosting too!).  He was still using them when he died.</p>\n<p>But they&rsquo;re shit. And getting shitter.</p>\n<p>And so today, I&rsquo;m looking (not for the first time) at how to move it all somewhere less shit, without losing something precious (like my stepmother&rsquo;s e-mail account).</p>\n<p>PS If anyone sees this, and wants to reply, I&rsquo;m happy to hear tales of solidarity, but I&rsquo;m not really looking for recommendations, or SaaS solutions.</p>\n<p>Peace, my brothers in affiliate linkage.</p>\n",
+				"content_text": "I registered my first domain in July 2001 with the same company that my father was using (for hosting too!).  He was still using them when he died.  \r\n\r\nBut they're shit. And getting shitter.  \r\n\r\nAnd so today, I'm looking (not for the first time) at how to move it all somewhere less shit, without losing something precious (like my stepmother's e-mail account). \r\n\r\nPS If anyone sees this, and wants to reply, I'm happy to hear tales of solidarity, but I'm not really looking for recommendations, or SaaS solutions.  \r\n\r\nPeace, my brothers in affiliate linkage.\n",
+				"date_published": "2024-09-08T08:56:32+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/08/web-hosting-blues.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/08/example-httpsdynamiclandorg-not.html",
+				
+				"content_html": "<p>example: <a href=\"https://dynamicland.org/\">dynamicland.org</a> (not a &lsquo;little thing&rsquo;)</p>\n<p>&ldquo;These web pages are designed to be preserved.\nThe HTML is simple and easily parsed. CSS and JavaScript are minimal and optional. All media files are visible to crawlers. There are no frameworks or external dependencies.&rdquo;</p>\n<p>(h/t Andy Matuschak)</p>\n",
+				"content_text": "example: [dynamicland.org](https://dynamicland.org/) (not a 'little thing')\r\n\r\n\"These web pages are designed to be preserved.\r\nThe HTML is simple and easily parsed. CSS and JavaScript are minimal and optional. All media files are visible to crawlers. There are no frameworks or external dependencies.\"\r\n\r\n(h/t Andy Matuschak)\n",
+				"date_published": "2024-09-08T08:29:15+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/08/example-httpsdynamiclandorg-not.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/06/dont-you-ever.html",
+				
+				"content_html": "<p>Don&rsquo;t you ever:</p>\n<p>a) stop being dandy, showing me you&rsquo;re handsome&hellip; (obvs)</p>\n<p>but also</p>\n<p>b) stop making little things on the open web that only a tiny number of people see, but which warm the hearts of those who do stumble across them.</p>\n",
+				"content_text": "Don't you ever:\r\n\r\na) stop being dandy, showing me you're handsome... (obvs)\r\n\r\nbut also\r\n\r\nb) stop making little things on the open web that only a tiny number of people see, but which warm the hearts of those who do stumble across them.\n",
+				"date_published": "2024-09-06T09:13:53+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/06/dont-you-ever.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/05/dear-fellow-coffee.html",
+				
+				"content_html": "<p>Dear fellow coffee shop patron, I understand that taking your son to college for his first day can be tough. I’m not surprised you’ve called your IT chap, John, for a chat.  But I could have told you that he would recommend turning your computer off and back on again. Yours, smugly x</p>\n",
+				"content_text": "Dear fellow coffee shop patron, I understand that taking your son to college for his first day can be tough. I’m not surprised you’ve called your IT chap, John, for a chat.  But I could have told you that he would recommend turning your computer off and back on again. Yours, smugly x\n",
+				"date_published": "2024-09-05T12:07:51+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/05/dear-fellow-coffee.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/04/today-is-one.html",
+				
+				"content_html": "<p>Today is one of those days when I’m glad not to be reading LinkedIn posts.</p>\n",
+				"content_text": "Today is one of those days when I’m glad not to be reading LinkedIn posts. \n",
+				"date_published": "2024-09-04T12:43:47+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/04/today-is-one.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/04/slow-horses-s.html",
+				
+				"content_html": "<p>Slow Horses S4 off to a promising start. And I’ve only got as far as as the opening titles!</p>\n",
+				"content_text": "Slow Horses S4 off to a promising start. And I’ve only got as far as as the opening titles!\n",
+				"date_published": "2024-09-04T11:46:08+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/04/slow-horses-s.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/04/ambient-presence-is.html",
+				
+				"content_html": "<p>Ambient presence is one of the things the algorithmic feeds have robbed us of</p>\n",
+				"content_text": "Ambient presence is one of the things the algorithmic feeds have robbed us of\n",
+				"date_published": "2024-09-04T03:51:12+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/04/ambient-presence-is.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/03/i-enjoyed-most.html",
+				
+				"content_html": "<p>I enjoyed most of the first season of Sherwood, while shaking my head at some of the violence.  S2E1 looks like they&rsquo;ve doubled-down on the misery porn though.  Like there&rsquo;s no such thing as a happy working-class community in the Midlands.</p>\n",
+				"content_text": "I enjoyed most of the first season of Sherwood, while shaking my head at some of the violence.  S2E1 looks like they've doubled-down on the misery porn though.  Like there's no such thing as a happy working-class community in the Midlands.\n",
+				"date_published": "2024-09-03T12:51:49+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/03/i-enjoyed-most.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/09/03/a-really-annoying.html",
+				
+				"content_html": "<p>A really annoying friction in interop between all these microblogging platforms is inconsistent character limits. 140 or even 280 made for a great creative tension when it T was the only show in town.  I&rsquo;m just having to think harder about it, and that&rsquo;s not what using computers should be like.</p>\n",
+				"content_text": "A really annoying friction in interop between all these microblogging platforms is inconsistent character limits. 140 or even 280 made for a great creative tension when it T was the only show in town.  I'm just having to think harder about it, and that's not what using computers should be like.  \n",
+				"date_published": "2024-09-03T07:29:50+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/09/03/a-really-annoying.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/31/this-week-i.html",
+				
+				"content_html": "<p>This week, I realised that I&rsquo;d been talked about, pseudonymously, in an academic paper.  I&rsquo;m &ldquo;William&rdquo; here and Tuttle is &ldquo;Kettil&rdquo; - I have no idea who it is that they refer to as &ldquo;Linda&rdquo;, but thanks Lin!</p>\n<p><a href=\"https://journals.aom.org/doi/abs/10.5465/amle.2020.0089\">journals.aom.org/doi/abs/1&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This week, I realised that I'd been talked about, pseudonymously, in an academic paper.  I'm \"William\" here and Tuttle is \"Kettil\" - I have no idea who it is that they refer to as \"Linda\", but thanks Lin!\r\n\r\n[journals.aom.org/doi/abs/1...](https://journals.aom.org/doi/abs/10.5465/amle.2020.0089)\n\n<img src=\"uploads/2024/53960449878-6cc801d90e-o.jpg\" width=\"600\" height=\"579\" alt=\"The image contains a text excerpt describing William as a skilled space holder, with a focus on his ability to rearrange a room for a better work environment.\">\n",
+				"date_published": "2024-08-31T09:49:31+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/31/this-week-i.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/30/woman-on-train.html",
+				
+				"content_html": "<p>Woman on train to her small child:</p>\n<p>Ooh look! You can see that lady’s knickers, her skirt is so short! Look! If we’d got off here, we would have shouted “hey lady, we can see your knicky-knacky-noos”. Wouldn’t that be funny?</p>\n<p>Narrator (me): …</p>\n",
+				"content_text": "Woman on train to her small child: \n\nOoh look! You can see that lady’s knickers, her skirt is so short! Look! If we’d got off here, we would have shouted “hey lady, we can see your knicky-knacky-noos”. Wouldn’t that be funny?\n\nNarrator (me): …\n",
+				"date_published": "2024-08-30T10:51:20+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/30/woman-on-train.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/29/a-very-tempting.html",
+				
+				"content_html": "<p>A very tempting bargain. The fact that this is in a charity shop in Jeremy Hunt’s constituency is purely coincidental.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A very tempting bargain. The fact that this is in a charity shop in Jeremy Hunt’s constituency is purely coincidental. \n\n<img src=\"uploads/2024/114db59c4d.jpg\" width=\"450\" height=\"600\" alt=\"A box of assorted ceramic clown statuettes randomly piled. On the side of the is written “Box of clowns £20” in black marker. \">\n",
+				"date_published": "2024-08-29T12:00:34+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/29/a-very-tempting.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/27/at-the-age.html",
+				
+				"content_html": "<p>At the age of fifty-nine and two-thirds it&rsquo;s time to take action on a pension provided by an employer that I left 22 years ago.  I&rsquo;m relieved to find that, so far, everything has been dealt with by e-mail rather than the snail alternative or /shudders/ by telephone.</p>\n",
+				"content_text": "At the age of fifty-nine and two-thirds it's time to take action on a pension provided by an employer that I left 22 years ago.  I'm relieved to find that, so far, everything has been dealt with by e-mail rather than the snail alternative or /shudders/ by telephone. \n",
+				"date_published": "2024-08-27T14:30:47+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/27/at-the-age.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/23/my-favourite-kind.html",
+				
+				"content_html": "<p>My favourite kind of day. A couple of hours on trains, eight hours sitting around in a field, another couple of hours on trains home.</p>\n",
+				"content_text": "My favourite kind of day. A couple of hours on trains, eight hours sitting around in a field, another couple of hours on trains home. \n",
+				"date_published": "2024-08-23T18:49:22+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/23/my-favourite-kind.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/23/escaping-to-the.html",
+				
+				"content_html": "<p>Escaping to the Midlands for a day at Greenbelt. Hoping to have some interesting random encounters as well as those that are pre-planned.</p>\n",
+				"content_text": "Escaping to the Midlands for a day at Greenbelt. Hoping to have some interesting random encounters as well as those that are pre-planned. \n",
+				"date_published": "2024-08-23T08:01:43+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/23/escaping-to-the.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/22/i-have-zero.html",
+				
+				"content_html": "<p>I have zero interest in cars but I know beauty when I see it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I have zero interest in cars but I know beauty when I see it.\r\n\n\n<img src=\"uploads/2024/jag.png\" width=\"600\" height=\"495\" alt=\"A 1962 Jaguar (car) on a garage forecourt.  The colour is registered as 'red' but I'd call it 'maroon'\">\n",
+				"date_published": "2024-08-22T08:40:42+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/22/i-have-zero.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/21/im-reading-that.html",
+				
+				"content_html": "<p>I&rsquo;m reading that FAFO is seen as a threatening phrase, like &ldquo;just try it, and see what you get, sucker!&rdquo; whereas I&rsquo;ve always thought of it as an encouragement to play and experiment, stop overthinking and just give it a go.  Aren&rsquo;t people interesting?</p>\n",
+				"content_text": "I'm reading that FAFO is seen as a threatening phrase, like \"just try it, and see what you get, sucker!\" whereas I've always thought of it as an encouragement to play and experiment, stop overthinking and just give it a go.  Aren't people interesting?\n",
+				"date_published": "2024-08-21T10:53:00+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/21/im-reading-that.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/21/i-just-saw.html",
+				
+				"content_html": "<p>I just saw the headline &ldquo;Epic Games Store Launches for iPhones in the EU&rdquo; and although I already knew the facts of the story, I had a little glimmer of enjoyment.  And then I remembered again that the EU doesn&rsquo;t include me.</p>\n",
+				"content_text": "I just saw the headline \"Epic Games Store Launches for iPhones in the EU\" and although I already knew the facts of the story, I had a little glimmer of enjoyment.  And then I remembered again that the EU doesn't include me.  \n",
+				"date_published": "2024-08-21T10:13:08+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/21/i-just-saw.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/20/i-just-want.html",
+				
+				"content_html": "<p>I just want to register my unease with prisons being filled up with people who’ve recently shown themselves to be violent in the face of authority. I don’t know what’s going to happen, my knowledge of the penal system is based on Porridge and Shawshank. I just don’t think it’s going to end well.</p>\n",
+				"content_text": "I just want to register my unease with prisons being filled up with people who’ve recently shown themselves to be violent in the face of authority. I don’t know what’s going to happen, my knowledge of the penal system is based on Porridge and Shawshank. I just don’t think it’s going to end well. \n",
+				"date_published": "2024-08-20T18:00:03+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/20/i-just-want.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/20/for-those-who.html",
+				
+				"content_html": "<p>For those who find Threads &ldquo;a much nicer place&rdquo;, may I direct your attention to the hot-takes on the sinking of the Bayesian and the (at the time of posting) six people still missing.</p>\n",
+				"content_text": "For those who find Threads \"a much nicer place\", may I direct your attention to the hot-takes on the sinking of the Bayesian and the (at the time of posting) six people still missing.    \n",
+				"date_published": "2024-08-20T10:27:30+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/20/for-those-who.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/20/teetering-on-the.html",
+				
+				"content_html": "<p>Teetering on the edge of a #ShrimpJesus rabbithole</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Teetering on the edge of a #ShrimpJesus rabbithole\n\n<img src=\"uploads/2024/7258abdb5a.jpg\" width=\"598\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-20T05:54:20+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/20/teetering-on-the.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/19/same-as-it.html",
+				
+				"content_html": "<p>Same as it ever was&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Same as it ever was...\n\n<img src=\"uploads/2024/screenshot-2024-08-19-at-11.53.12.png\" width=\"600\" height=\"203\" alt=\"Screenshot of a Facebook Memory from 14 years ago - a status update that reads&quot;really needing to step away from the computer and go and do something more restful&quot;\">\n",
+				"date_published": "2024-08-19T10:55:33+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/19/same-as-it.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/18/handy-guide-to.html",
+				
+				"content_html": "<p>Handy guide to the new (in 1969) automatic ticket barriers at Oxford Circus.</p>\n<p><a href=\"https://flic.kr/p/2mQhzmB\">flic.kr/p/2mQhzmB</a></p>\n",
+				"content_text": "Handy guide to the new (in 1969) automatic ticket barriers at Oxford Circus.\r\n\r\n[flic.kr/p/2mQhzmB](https://flic.kr/p/2mQhzmB)\n",
+				"date_published": "2024-08-18T14:22:53+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/18/handy-guide-to.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/17/it-was-the.html",
+				
+				"content_html": "<p>It was the best of times, it was absolutely the fucking worst of times. Thatcherism was just round the corner, we had no idea.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It was the best of times, it was absolutely the fucking worst of times. Thatcherism was just round the corner, we had no idea. \n\n<img src=\"uploads/2024/3ecf25d121.jpg\" width=\"515\" height=\"600\" alt=\"A section of a 1979 group school photo in black and white. Six 14 year old boys from  the English West Midlands, in school uniform. Three in front have their arms stiffly folded. \">\n",
+				"date_published": "2024-08-17T11:15:38+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/17/it-was-the.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/16/i-scraped-some.html",
+				
+				"content_html": "<p>I scraped some numbers from the wayback machine captures of my twitter profile page to see what I could see.  I think at this time (2007), I thought it was more impressive to have a high follower to follow ratio.  Certainly the idea of following back everyone who followed you wasn&rsquo;t prevalent.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I scraped some numbers from the wayback machine captures of my twitter profile page to see what I could see.  I think at this time (2007), I thought it was more impressive to have a high follower to follow ratio.  Certainly the idea of following back everyone who followed you wasn't prevalent.\n\n<img src=\"uploads/2024/early-twitteri-didnt-always-follow-back-1.png\" width=\"600\" height=\"371\" alt=\"\">\n",
+				"date_published": "2024-08-16T15:24:00+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/16/i-scraped-some.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/15/what-was-in.html",
+				
+				"content_html": "<p>What was in my bag on October 12th 2008?</p>\n<p><a href=\"https://flic.kr/p/5tqfgS\">flic.kr/p/5tqfgS</a></p>\n<p>By <a href=\"https://www.flickr.com/photos/chicoutletblog/\">Chic Outlet Shopping on Flickr</a>\nCC: BY-NC-SA</p>\n",
+				"content_text": "What was in my bag on October 12th 2008?\r\n\r\n[flic.kr/p/5tqfgS](https://flic.kr/p/5tqfgS) \r\n\r\nBy [Chic Outlet Shopping on Flickr](https://www.flickr.com/photos/chicoutletblog/)\r\nCC: BY-NC-SA\n",
+				"date_published": "2024-08-15T09:39:46+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/15/what-was-in.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/15/so-threads-have.html",
+				
+				"content_html": "<p>So Threads have introduced &ldquo;insights&rdquo; and turns out my followers are nearly two-thirds male and three-quarters of them are aged 45-65.  This is not the picture I have in my head when I press &ldquo;publish&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "So Threads have introduced \"insights\" and turns out my followers are nearly two-thirds male and three-quarters of them are aged 45-65.  This is not the picture I have in my head when I press \"publish\"\n\n<img src=\"uploads/2024/screenshot-2024-08-15-at-09.14.30.png\" width=\"520\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-15T08:16:19+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/15/so-threads-have.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/15/tempus-dont-half.html",
+				
+				"content_html": "<p>tempus don&rsquo;t half fugit</p>\n",
+				"content_text": "tempus don't half fugit\n",
+				"date_published": "2024-08-15T07:59:51+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/15/tempus-dont-half.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/14/my-prescribed-meds.html",
+				
+				"content_html": "<p>My prescribed meds have been in short supply for a while, but because they&rsquo;re a controlled substance, navigating changes to Px is a tricky juggling act between me, my GP and the pharmacy.</p>\n",
+				"content_text": "My prescribed meds have been in short supply for a while, but because they're a controlled substance, navigating changes to Px is a tricky juggling act between me, my GP and the pharmacy.\n",
+				"date_published": "2024-08-14T14:23:40+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/14/my-prescribed-meds.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/14/i-got-my.html",
+				
+				"content_html": "<p>I got my ADHD diagnosis at age 55 a few years ago.</p>\n<p>Recognition has helped a lot, so has some well-targeted therapy and coaching. I’m also fortunate to have a loving, supportive family. Medication has had a more powerful and positive effect than I&rsquo;d expected.</p>\n",
+				"content_text": "I got my ADHD diagnosis at age 55 a few years ago. \n\nRecognition has helped a lot, so has some well-targeted therapy and coaching. I’m also fortunate to have a loving, supportive family. Medication has had a more powerful and positive effect than I'd expected. \n",
+				"date_published": "2024-08-14T14:22:28+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/14/i-got-my.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/12/why-am-i.html",
+				
+				"content_html": "<p>Why am I only just hearing about shrimp Jesus?</p>\n",
+				"content_text": "Why am I only just hearing about shrimp Jesus? \n",
+				"date_published": "2024-08-12T06:37:44+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/12/why-am-i.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/12/the-proof-is.html",
+				
+				"content_html": "<p>The proof is not in the pudding. Please stop saying that it is.</p>\n",
+				"content_text": "The proof is not in the pudding. Please stop saying that it is. \n",
+				"date_published": "2024-08-12T06:29:05+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/12/the-proof-is.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/08/i-remembered-to.html",
+				
+				"content_html": "<p>I remembered to upload some benches to openbenches.org and then fell into an openstreetmap rabbit hole.  This is not what I was supposed to be doing today.</p>\n<p>#TheTyrannyOfOpen</p>\n",
+				"content_text": "I remembered to upload some benches to openbenches.org and then fell into an openstreetmap rabbit hole.  This is not what I was supposed to be doing today. \r\n\r\n#TheTyrannyOfOpen\n",
+				"date_published": "2024-08-08T11:15:57+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/08/i-remembered-to.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/08/sometimes-id-really.html",
+				
+				"content_html": "<p>Sometimes, I&rsquo;d really like to shout at people using the derogatory terms that we enjoyed so much in Class 2B at Parkside Middle School in 1976.</p>\n<p>But that would make me a complete and utter&hellip; oh, wait&hellip;</p>\n",
+				"content_text": "Sometimes, I'd really like to shout at people using the derogatory terms that we enjoyed so much in Class 2B at Parkside Middle School in 1976.\r\n\r\nBut that would make me a complete and utter... oh, wait...\n",
+				"date_published": "2024-08-08T09:38:45+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/08/sometimes-id-really.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/08/all-together-now.html",
+				
+				"content_html": "<p>All together now…</p>\n<p><a href=\"https://youtu.be/VwcKwGS7OSQ\">youtu.be/VwcKwGS7O&hellip;</a></p>\n",
+				"content_text": "All together now…\n\n[youtu.be/VwcKwGS7O...](https://youtu.be/VwcKwGS7OSQ)\n",
+				"date_published": "2024-08-08T05:44:47+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/08/all-together-now.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/07/theres-a-twist.html",
+				
+				"content_html": "<p>There&rsquo;s a twist to the radical inclusivity in my work that can be tricky for some people to get. Everyone is welcome, with one limit - you have to pass it on. If you ever abuse the generosity that was offered to you and instead make other people unwelcome, you forfeit the right to be there. Bye.</p>\n",
+				"content_text": "There's a twist to the radical inclusivity in my work that can be tricky for some people to get. Everyone is welcome, with one limit - you have to pass it on. If you ever abuse the generosity that was offered to you and instead make other people unwelcome, you forfeit the right to be there. Bye.\n",
+				"date_published": "2024-08-07T09:10:13+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/07/theres-a-twist.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/05/ive-buttered-about.html",
+				
+				"content_html": "<p>I’ve buttered about 15 pieces of bread.  I haven’t cut them, so that people can choose for themselves. I think l that should be enough. #lastnightsdream</p>\n",
+				"content_text": "I’ve buttered about 15 pieces of bread.  I haven’t cut them, so that people can choose for themselves. I think l that should be enough. #lastnightsdream\n",
+				"date_published": "2024-08-05T05:58:55+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/05/ive-buttered-about.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/04/has-anybody-torn.html",
+				
+				"content_html": "<p>Has anybody torn apart the false equivalencey that says these are just “protests” or just “riots” like we’ve always seen?  These actions are different in intent. Mainly because they’re punching down and are directed at groups of ordinary people rather than those with power.</p>\n",
+				"content_text": "Has anybody torn apart the false equivalencey that says these are just “protests” or just “riots” like we’ve always seen?  These actions are different in intent. Mainly because they’re punching down and are directed at groups of ordinary people rather than those with power. \n",
+				"date_published": "2024-08-04T12:00:17+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/04/has-anybody-torn.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/04/123431.html",
+				
+				"content_html": "<p>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": ".\n\n<img src=\"uploads/2024/d6a08477ea.gif\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-04T11:34:31+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/04/123431.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/02/but-lloyd-you.html",
+				
+				"content_html": "<p>&ldquo;But Lloyd, you don&rsquo;t <em>sound</em> like you&rsquo;re from Birmingham.&rdquo;</p>\n<p>Well, firstly that shows you don&rsquo;t know much about what people from Birmingham actually sound like.  And secondly, I really hope that one day I find the tape of me doing &ldquo;Insy-winsy spider&rdquo;</p>\n",
+				"content_text": "\"But Lloyd, you don't *sound* like you're from Birmingham.\"\r\n\r\nWell, firstly that shows you don't know much about what people from Birmingham actually sound like.  And secondly, I really hope that one day I find the tape of me doing \"Insy-winsy spider\"\n",
+				"date_published": "2024-08-02T09:18:27+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/02/but-lloyd-you.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/02/oh-god-another.html",
+				
+				"content_html": "<p>Oh god, another day of heartbreaking beauty…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oh god, another day of heartbreaking beauty…\n\n<img src=\"uploads/2024/71c6b7216d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-02T08:50:02+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/02/oh-god-another.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/08/02/sitting-round-a.html",
+				
+				"content_html": "<p>Sitting round a table at a men’s support group. I’d just got us all a coffee when three guys in wheelchairs burst through the doors, waving guns and shouting “FBI! Don’t move!” They rammed up behind each of the other guys, pinning them to the table. I escaped through the kitchen.  #lastnightsdream</p>\n",
+				"content_text": "Sitting round a table at a men’s support group. I’d just got us all a coffee when three guys in wheelchairs burst through the doors, waving guns and shouting “FBI! Don’t move!” They rammed up behind each of the other guys, pinning them to the table. I escaped through the kitchen.  #lastnightsdream\n",
+				"date_published": "2024-08-02T05:44:17+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/08/02/sitting-round-a.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/30/i-just-logged.html",
+				
+				"content_html": "<p>I just logged back in to last.fm for the first time in&hellip; oh, looks like nearly sixteen years.  Well, well, well.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I just logged back in to last.fm for the first time in... oh, looks like nearly sixteen years.  Well, well, well.\n\n<img src=\"uploads/2024/screenshot-2024-07-30-at-11.40.18.png\" width=\"411\" height=\"376\" alt=\"\">\n",
+				"date_published": "2024-07-30T10:44:42+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/30/i-just-logged.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/30/ive-spent-the.html",
+				
+				"content_html": "<p>I’ve spent the last couple of days binge re-watching “Can’t Get You Out Of My Head” by Adam Curtis. So please don’t expect me to be peppy and upbeat, especially when the news headlines are about Osbourne-omics from a Labour chancellor, murdered children and a newsreader’s WhatsApp-based paedophilia.</p>\n",
+				"content_text": "I’ve spent the last couple of days binge re-watching “Can’t Get You Out Of My Head” by Adam Curtis. So please don’t expect me to be peppy and upbeat, especially when the news headlines are about Osbourne-omics from a Labour chancellor, murdered children and a newsreader’s WhatsApp-based paedophilia. \n",
+				"date_published": "2024-07-30T08:28:10+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/30/ive-spent-the.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/29/so-does-the.html",
+				
+				"content_html": "<p>So does the 3D Print of my teeth go in “sentimental objects” with my 1978 woodwork project? Or in “lightweight musical instruments” with the castanets? Everyday Information Management problems.</p>\n",
+				"content_text": "So does the 3D Print of my teeth go in “sentimental objects” with my 1978 woodwork project? Or in “lightweight musical instruments” with the castanets? Everyday Information Management problems. \n",
+				"date_published": "2024-07-29T10:32:50+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/29/so-does-the.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/27/singles-the-least.html",
+				
+				"content_html": "<p>Singles. (The least embarrassing ones…)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Singles. (The least embarrassing ones…)\n\n<img src=\"uploads/2024/4f1842c708.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/14ed070223.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/4bb825eed7.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/90a130f4c9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-27T09:15:44+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/27/singles-the-least.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/26/i-cant-shake.html",
+				
+				"content_html": "<p>I can’t shake the Mission Impossible vibe, like one of those dancers is going to turn out to be Tom Cruise.</p>\n",
+				"content_text": "I can’t shake the Mission Impossible vibe, like one of those dancers is going to turn out to be Tom Cruise. \n",
+				"date_published": "2024-07-26T18:16:37+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/26/i-cant-shake.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/26/aldous-huxley-born.html",
+				
+				"content_html": "<p>Aldous Huxley, born on this day 130 years ago, died on the same day in 1963 as JFK and CS Lewis. Novelist and philosopher, who imagined a world where some sections of society were engineered to be a less intelligent ChatGPT. It’s a gorgeous day in this corner of Surrey although the A3 is a bit noisy</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Aldous Huxley, born on this day 130 years ago, died on the same day in 1963 as JFK and CS Lewis. Novelist and philosopher, who imagined a world where some sections of society were engineered to be a less intelligent ChatGPT. It’s a gorgeous day in this corner of Surrey although the A3 is a bit noisy\n\n<img src=\"uploads/2024/03a13c39d9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/1dba06f577.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-26T14:58:16+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/26/aldous-huxley-born.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/26/england-in-july.html",
+				
+				"content_html": "<p>England in July</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "England in July\n\n<img src=\"uploads/2024/6cdf0ae25d.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-26T11:39:17+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/26/england-in-july.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/25/tomorrow-friday-th.html",
+				
+				"content_html": "<p>Tomorrow, (Friday 26th) to mark the 130th anniversary of his birth, I&rsquo;m going to visit where Aldous Huxley&rsquo;s ashes were interred.  If you fancy a trip out to the country, come and say hello too.  Sign up here <a href=\"https://lu.ma/zoh3h63g\">lu.ma/zoh3h63g</a> just so that I know to look out for you.</p>\n",
+				"content_text": "Tomorrow, (Friday 26th) to mark the 130th anniversary of his birth, I'm going to visit where Aldous Huxley's ashes were interred.  If you fancy a trip out to the country, come and say hello too.  Sign up here [lu.ma/zoh3h63g](https://lu.ma/zoh3h63g) just so that I know to look out for you.\n",
+				"date_published": "2024-07-25T14:41:07+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/25/tomorrow-friday-th.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/25/wann-startet-staffel.html",
+				
+				"content_html": "<p>Wann startet Staffel 2 von „Kleo” auf Netflix?</p>\n<p>Heute! Keine Arbeit mehr!</p>\n",
+				"content_text": "Wann startet Staffel 2 von „Kleo” auf Netflix?\n\nHeute! Keine Arbeit mehr!\n",
+				"date_published": "2024-07-25T12:12:30+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/25/wann-startet-staffel.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/25/this-diagram-contains.html",
+				
+				"content_html": "<p>This diagram contains an important message that it’s easy to miss if you’re a person like me. The board with the holes goes on the top (the end where the drawer runners are closer together) if you want to fix a table top to it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This diagram contains an important message that it’s easy to miss if you’re a person like me. The board with the holes goes on the top (the end where the drawer runners are closer together) if you want to fix a table top to it. \n\n<img src=\"uploads/2024/474ca58079.jpg\" width=\"450\" height=\"600\" alt=\"A page from the IKEA instruction manual for “Alex” drawer units clearly (with hindsight) shows one diagram for each use case\">\n",
+				"date_published": "2024-07-25T10:24:15+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/25/this-diagram-contains.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/25/today-again-i.html",
+				
+				"content_html": "<p>Today, again, I shall mostly be observed muttering &ldquo;righty-tighty, righty-tighty&rdquo; but also dropping small screws into spaces that are difficult to access with my fingers. Yes, it&rsquo;s Flatpack Fursday!</p>\n",
+				"content_text": "Today, again, I shall mostly be observed muttering \"righty-tighty, righty-tighty\" but also dropping small screws into spaces that are difficult to access with my fingers. Yes, it's Flatpack Fursday!\n",
+				"date_published": "2024-07-25T09:18:30+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/25/today-again-i.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/25/i-have-no.html",
+				
+				"content_html": "<p>I have no vote in the US presidential election, but I would prefer the &ldquo;young woman of colour&rdquo; to win.  Especially as she is still older than I am.</p>\n<p>#YesItsAllAboutMe</p>\n",
+				"content_text": "I have no vote in the US presidential election, but I would prefer the \"young woman of colour\" to win.  Especially as she is still older than I am.  \r\n\r\n#YesItsAllAboutMe\r\n",
+				"date_published": "2024-07-25T08:19:23+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/25/i-have-no.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/25/my-new-desk.html",
+				
+				"content_html": "<p>My new desk surface is 72cm from the floor just like my old desk.  It looks lower.</p>\n",
+				"content_text": "My new desk surface is 72cm from the floor just like my old desk.  It looks lower.\n",
+				"date_published": "2024-07-25T08:14:31+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/25/my-new-desk.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/24/shhh-im-counting.html",
+				
+				"content_html": "<p>Shhh. I’m counting…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Shhh. I’m counting…\n\n<img src=\"uploads/2024/fc29a17e66.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-24T09:05:17+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/24/shhh-im-counting.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/24/my-fyp-on.html",
+				
+				"content_html": "<p>My fyp on Threads is now a horrible mix of Americans “wondering” about British pronunciation and British people who write like they talk, with all the confusing grammar of a local Whatsapp group. Is this really what I’ve been giving my attention to? Please send heart-warming poetry to help me reset.</p>\n",
+				"content_text": "My fyp on Threads is now a horrible mix of Americans “wondering” about British pronunciation and British people who write like they talk, with all the confusing grammar of a local Whatsapp group. Is this really what I’ve been giving my attention to? Please send heart-warming poetry to help me reset.\n",
+				"date_published": "2024-07-24T07:15:42+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/24/my-fyp-on.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/23/an-incredibly-small.html",
+				
+				"content_html": "<p>An incredibly small number of posts “will age well”. This is an ephemeral medium, so use it for the half-baked and forgettable notions that are burning right now! Mix your metaphors in the rush to publish! This post is brought to you by the many references to chicken wings in my twttr archive.</p>\n",
+				"content_text": "An incredibly small number of posts “will age well”. This is an ephemeral medium, so use it for the half-baked and forgettable notions that are burning right now! Mix your metaphors in the rush to publish! This post is brought to you by the many references to chicken wings in my twttr archive. \n",
+				"date_published": "2024-07-23T06:02:23+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/23/an-incredibly-small.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/22/i-think-it.html",
+				
+				"content_html": "<p>I think it would be good if I started auto-deleting any e-mails that I receive which start &ldquo;I think it would good if&hellip;&rdquo;</p>\n",
+				"content_text": "I think it would be good if I started auto-deleting any e-mails that I receive which start \"I think it would good if...\"\n",
+				"date_published": "2024-07-22T14:39:55+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/22/i-think-it.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/22/babies-boomers-or.html",
+				"title": "1964 babies: Boomers or Gen X?",
+				"content_html": "<p>An updated handy guide to people who (have) turn(ed) 60 this year.  The correct order is:</p>\n<ul>\n<li>Michelle Obama</li>\n<li>Bridget Fonda</li>\n<li>Russell Crowe</li>\n<li>Courtney Cox</li>\n<li>Boris Johnson</li>\n<li>Keanu Reeves</li>\n<li>Kamala Harris</li>\n<li>Me &amp; Eddie Vedder</li>\n</ul>\n<p>(the last two share a birthday but I don’t know what time Mr Vedder was born, I was busy at the time)</p>\n<p>I can only see one person in this list who I’d consider a “boomer” but we don’t really care about silly labels that much.</p>\n",
+				"content_text": "An updated handy guide to people who (have) turn(ed) 60 this year.  The correct order is:\n\n* Michelle Obama\n* Bridget Fonda\n* Russell Crowe\n* Courtney Cox\n* Boris Johnson\n* Keanu Reeves\n* Kamala Harris \n* Me & Eddie Vedder\n\n(the last two share a birthday but I don’t know what time Mr Vedder was born, I was busy at the time)\n\nI can only see one person in this list who I’d consider a “boomer” but we don’t really care about silly labels that much. \n",
+				"date_published": "2024-07-22T12:43:28+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/22/babies-boomers-or.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/22/ive-made-a.html",
+				
+				"content_html": "<p>I&rsquo;ve made a &ldquo;New Parliament&rsquo;s Resolution&rdquo; to write more regularly to my MP, to supplement the once-in-five-years action of sticking an X in a box.  It might go the way of all resolutions, but I&rsquo;ve done one so far this Parliament and I&rsquo;m grateful to <a href=\"https://writetothem.com\">writetothem.com</a> for making it easier.</p>\n",
+				"content_text": "I've made a \"New Parliament's Resolution\" to write more regularly to my MP, to supplement the once-in-five-years action of sticking an X in a box.  It might go the way of all resolutions, but I've done one so far this Parliament and I'm grateful to [writetothem.com](https://writetothem.com) for making it easier.\n",
+				"date_published": "2024-07-22T09:43:10+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/22/ive-made-a.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/21/its-going-to.html",
+				
+				"content_html": "<p>It’s going to take a while for me to get used to seeing headlines with the new Chancellor being referred to by her surname only.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s going to take a while for me to get used to seeing headlines with the new Chancellor being referred to by her surname only.\n\n<img src=\"uploads/2024/f71d24a431.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-21T20:40:52+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/21/its-going-to.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/21/spotted-taking-notes.html",
+				
+				"content_html": "<p>Spotted taking notes at Newspeak House</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spotted taking notes at Newspeak House \n\n<img src=\"uploads/2024/cd75d76d99.jpg\" width=\"600\" height=\"487\" alt=\"\">\n",
+				"date_published": "2024-07-21T13:36:30+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/21/spotted-taking-notes.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/19/uk-parliament-petitions.html",
+				"title": "UK Parliament Petitions On Hiatus",
+				"content_html": "<p>You can&rsquo;t petition the UK parliament online at the moment because new parliament and therefore the petitions committee hasn&rsquo;t been appointed yet.  What workarounds are there in the meantime, my parliamentary/gov/civicsoc friends? (asking for friends who would like an urgent review of the Police, Crime, Sentencing and Courts Act 2022 and its application at Southwark Crown Court yesterday&hellip; Public Order Act 2023 while we&rsquo;re at it)</p>\n",
+				"content_text": "You can't petition the UK parliament online at the moment because new parliament and therefore the petitions committee hasn't been appointed yet.  What workarounds are there in the meantime, my parliamentary/gov/civicsoc friends? (asking for friends who would like an urgent review of the Police, Crime, Sentencing and Courts Act 2022 and its application at Southwark Crown Court yesterday... Public Order Act 2023 while we're at it)\n",
+				"date_published": "2024-07-19T11:59:20+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/19/uk-parliament-petitions.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/19/and-chatgpt-says.html",
+				
+				"content_html": "<p>And ChatGPT says &ldquo;Twitter began rendering mentions as links from its inception in 2006.&rdquo; which is just not true.</p>\n",
+				"content_text": "And ChatGPT says \"Twitter began rendering mentions as links from its inception in 2006.\" which is just not true.\n",
+				"date_published": "2024-07-19T10:43:49+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/19/and-chatgpt-says.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/19/a-q-for.html",
+				
+				"content_html": "<p>A Q for Twitter historians: when did @-mentions first get officially recognised and rendered as links?  Same question for hashtags.  I know Chris M wrote about them first in August 2007 but we had to use them for a while just through search, right? Is there a history that goes into this detail?</p>\n",
+				"content_text": "A Q for Twitter historians: when did @-mentions first get officially recognised and rendered as links?  Same question for hashtags.  I know Chris M wrote about them first in August 2007 but we had to use them for a while just through search, right? Is there a history that goes into this detail?\n",
+				"date_published": "2024-07-19T10:40:23+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/19/a-q-for.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/19/i-hope-that.html",
+				
+				"content_html": "<p>I hope that whoever is found to be responsibe for this get a more sensible judge than Roger Hallam and the #WholeTruth5 did</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I hope that whoever is found to be responsibe for this get a more sensible judge than Roger Hallam and the #WholeTruth5 did\n\n<img src=\"uploads/2024/c7105d30a7.jpg\" width=\"588\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-07-19T07:45:22+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/19/i-hope-that.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/19/strong-crucifixion-vibe.html",
+				
+				"content_html": "<p>Strong crucifixion vibe - it’s martyrs all the way down.</p>\n",
+				"content_text": "Strong crucifixion vibe - it’s martyrs all the way down. \n",
+				"date_published": "2024-07-19T03:32:44+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/19/strong-crucifixion-vibe.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/18/ugh-five-years.html",
+				
+				"content_html": "<p>Ugh! Five years for organising non-violent protest - Zoom call was infiltrated by a Sun journalist who grassed them up.</p>\n<p><a href=\"https://www.bbc.co.uk/news/articles/c880xjx54mpo\">www.bbc.co.uk/news/arti&hellip;</a></p>\n",
+				"content_text": "Ugh! Five years for organising non-violent protest - Zoom call was infiltrated by a Sun journalist who grassed them up. \r\n\r\n[www.bbc.co.uk/news/arti...](https://www.bbc.co.uk/news/articles/c880xjx54mpo)\n",
+				"date_published": "2024-07-18T15:19:49+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/18/ugh-five-years.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/18/for-his-wound.html",
+				
+				"content_html": "<p>“for his wound” - over to you, Jungians!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "“for his wound” - over to you, Jungians!\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"333\" alt=\"\">\n",
+				"date_published": "2024-07-18T11:43:15+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/18/for-his-wound.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/18/ive-been-lucky.html",
+				
+				"content_html": "<p>I&rsquo;ve been lucky enough to listen to Audrey Tang twice this week.  And so I&rsquo;m luxuriating in the plurality of all the platforms I&rsquo;m publishing to instead of worrying about people seeing the same stuff in different places. Feel free to mute/block/filter according to your preference :)</p>\n",
+				"content_text": "I've been lucky enough to listen to Audrey Tang twice this week.  And so I'm luxuriating in the plurality of all the platforms I'm publishing to instead of worrying about people seeing the same stuff in different places. Feel free to mute/block/filter according to your preference :)\n",
+				"date_published": "2024-07-18T10:39:31+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/18/ive-been-lucky.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/18/oops-i-forgot.html",
+				
+				"content_html": "<p>Oops, I forgot that I had automatic cross-posting on and re-cross-posted myself accidentally.  What thrills can come from recklessly typing text into a box and pressing buttons on a screen!</p>\n",
+				"content_text": "Oops, I forgot that I had automatic cross-posting on and re-cross-posted myself accidentally.  What thrills can come from recklessly typing text into a box and pressing buttons on a screen!\n",
+				"date_published": "2024-07-18T09:26:26+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/18/oops-i-forgot.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/18/this-guy-though.html",
+				
+				"content_html": "<p>This guy though&hellip;</p>\n<p><a href=\"https://flic.kr/p/2q4RPVY\">flic.kr/p/2q4RPVY</a></p>\n",
+				"content_text": "This guy though...\r\n\r\n[flic.kr/p/2q4RPVY](https://flic.kr/p/2q4RPVY)\n",
+				"date_published": "2024-07-18T09:16:13+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/18/this-guy-though.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/18/im-in-ur.html",
+				
+				"content_html": "<p>I&rsquo;m in ur micro.blog, writing like nobody&rsquo;s reading&hellip; again!</p>\n",
+				"content_text": "I'm in ur micro.blog, writing like nobody's reading... again!\n",
+				"date_published": "2024-07-18T09:12:12+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/18/im-in-ur.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/18/i-get-that.html",
+				
+				"content_html": "<p>I get that space is tight, but wouldn&rsquo;t it be nice if posts of the type &ldquo;I asked ChatGPT&hellip; xyz,  and this is what I got back&rdquo; also carried an alt-text like attribute that revealed exactly what prompt I&rsquo;d used? y&rsquo;know to check for unconcious biases etc.</p>\n",
+				"content_text": "I get that space is tight, but wouldn't it be nice if posts of the type \"I asked ChatGPT... xyz,  and this is what I got back\" also carried an alt-text like attribute that revealed exactly what prompt I'd used? y'know to check for unconcious biases etc.\n",
+				"date_published": "2024-07-18T09:10:44+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/18/i-get-that.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/15/i-seem-to.html",
+				
+				"content_html": "<p>I seem to have written this 14 years ago. Plus ca change&hellip;</p>\n<p><a href=\"%22https://perfectpath.co.uk/2010/07/08/fixing-the-world/%22\">Let&rsquo;s Fix The World! - a 21st Century Parlour Game</a></p>\n<p>Nobody likes a Clever Dick, Lloyd</p>\n",
+				"content_text": "I seem to have written this 14 years ago. Plus ca change...\r\n\r\n[Let's Fix The World! - a 21st Century Parlour Game](\"https://perfectpath.co.uk/2010/07/08/fixing-the-world/\")\r\n\r\nNobody likes a Clever Dick, Lloyd\n",
+				"date_published": "2024-07-15T08:39:57+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/15/i-seem-to.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/07/14/just-doing-sunday.html",
+				
+				"content_html": "<p>Just doing Sunday silly stuff, y&rsquo;know.</p>\n",
+				"content_text": "Just doing Sunday silly stuff, y'know.\n",
+				"date_published": "2024-07-14T14:50:40+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/07/14/just-doing-sunday.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/06/25/hello-microblog-world.html",
+				
+				"content_html": "<p>Hello micro.blog world. It me!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hello micro.blog world. It me!\n\n\n<img src=\"uploads/2024/b7fbde3f92.jpg\" width=\"198\" height=\"203\" alt=\"\">\n",
+				"date_published": "2024-06-25T13:59:32+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/06/25/hello-microblog-world.html"
+			}
+	]
+}
