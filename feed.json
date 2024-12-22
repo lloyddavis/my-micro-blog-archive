@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://lloyddavis.micro.blog/2024/12/22/time-check-its.html",
+				
+				"content_html": "<p>Time check: it’s the last day of my fifties…</p>\n",
+				"content_text": "Time check: it’s the last day of my fifties… \n",
+				"date_published": "2024-12-22T07:55:15+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/12/22/time-check-its.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/12/13/people-outside-the.html",
+				
+				"content_html": "<p>People outside the UK, what&rsquo;s wrong with this picture? (incorrect and misleading answers only, please)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "People outside the UK, what's wrong with this picture? (incorrect and misleading answers only, please)\n\n<img src=\"uploads/2024/54201110316-b1a159056b-w.jpg\" width=\"400\" height=\"334\" alt=\"\">\n",
+				"date_published": "2024-12-13T09:41:29+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/12/13/people-outside-the.html"
+			},
+			{
+				"id": "http://lloyddavis.micro.blog/2024/12/13/in-glasgow-to.html",
+				
+				"content_html": "<p>In Glasgow to see the massive underground turbine that will supply clean, renewable energy to the whole city. There&rsquo;s a low background hum everywhere you go, but it seems worth it.  I met friends for coffee in the &ldquo;Hammer and Bagel&rdquo; a socialist bakers co-op in the city centre. #lastnightsdream</p>\n",
+				"content_text": "In Glasgow to see the massive underground turbine that will supply clean, renewable energy to the whole city. There's a low background hum everywhere you go, but it seems worth it.  I met friends for coffee in the \"Hammer and Bagel\" a socialist bakers co-op in the city centre. #lastnightsdream\n",
+				"date_published": "2024-12-13T07:39:47+00:00",
+				"url": "https://lloyddavis.micro.blog/2024/12/13/in-glasgow-to.html"
+			},
+			{
 				"id": "http://lloyddavis.micro.blog/2024/12/11/in-the-style.html",
 				
 				"content_html": "<p>In the style of the &ldquo;how old are you in internet years?&rdquo; meme.  I realise that I&rsquo;m &ldquo;put up with parsing an RSS feed and making it into a data structure, rather than looking for a JSON version of the same&rdquo; old.</p>\n",
@@ -138,7 +162,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/11/11/and-heres-another.html",
 				
 				"content_html": "<p>And here&rsquo;s another thing.</p>\n<p>It needs to be a bit longer and have some paragraphs in it.</p>\n<p>I don&rsquo;t know whether there&rsquo;s a way of adding a title for a post that is less than three hundred characters long, but it&rsquo;s probably easier to write that many characters in order to find out than it is to go and look for the answer elsewhere.</p>\n<p>Here&rsquo;s a picture too!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "And here's another thing.\r\n\r\nIt needs to be a bit longer and have some paragraphs in it.  \r\n\r\nI don't know whether there's a way of adding a title for a post that is less than three hundred characters long, but it's probably easier to write that many characters in order to find out than it is to go and look for the answer elsewhere.\r\n\r\nHere's a picture too!\n\n<img src=\"uploads/2024/329413346-490654193277203-2783638880233410547-n.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "And here's another thing.\r\n\r\nIt needs to be a bit longer and have some paragraphs in it.  \r\n\r\nI don't know whether there's a way of adding a title for a post that is less than three hundred characters long, but it's probably easier to write that many characters in order to find out than it is to go and look for the answer elsewhere.\r\n\r\nHere's a picture too!\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/329413346-490654193277203-2783638880233410547-n.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-11T11:05:16+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/11/11/and-heres-another.html"
 			},
@@ -202,7 +226,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/09/25/still-processing-last.html",
 				
 				"content_html": "<p>Still processing last night&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Still processing last night...\n\n<img src=\"uploads/2024/461330210-18457838380063469-3651511130203667128-n.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Still processing last night...\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/461330210-18457838380063469-3651511130203667128-n.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-25T09:05:33+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/09/25/still-processing-last.html"
 			},
@@ -210,7 +234,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/09/13/this-was-the.html",
 				
 				"content_html": "<p>This was the morning after the night before, a couple of days ago.</p>\n<p>I&rsquo;m so asynchronous!</p>\n<p>Fresh Kentish hops, baby!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This was the morning after the night before, a couple of days ago.  \r\n\r\nI'm so asynchronous!\r\n\r\nFresh Kentish hops, baby!\n\n<img src=\"uploads/2024/img-8364.png\" width=\"600\" height=\"265\" alt=\"\">\n",
+				"content_text": "This was the morning after the night before, a couple of days ago.  \r\n\r\nI'm so asynchronous!\r\n\r\nFresh Kentish hops, baby!\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/img-8364.png\" width=\"600\" height=\"265\" alt=\"\">\n",
 				"date_published": "2024-09-13T09:15:03+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/09/13/this-was-the.html"
 			},
@@ -306,7 +330,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/31/this-week-i.html",
 				
 				"content_html": "<p>This week, I realised that I&rsquo;d been talked about, pseudonymously, in an academic paper.  I&rsquo;m &ldquo;William&rdquo; here and Tuttle is &ldquo;Kettil&rdquo; - I have no idea who it is that they refer to as &ldquo;Linda&rdquo;, but thanks Lin!</p>\n<p><a href=\"https://journals.aom.org/doi/abs/10.5465/amle.2020.0089\">journals.aom.org/doi/abs/1&hellip;</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This week, I realised that I'd been talked about, pseudonymously, in an academic paper.  I'm \"William\" here and Tuttle is \"Kettil\" - I have no idea who it is that they refer to as \"Linda\", but thanks Lin!\r\n\r\n[journals.aom.org/doi/abs/1...](https://journals.aom.org/doi/abs/10.5465/amle.2020.0089)\n\n<img src=\"uploads/2024/53960449878-6cc801d90e-o.jpg\" width=\"600\" height=\"579\" alt=\"The image contains a text excerpt describing William as a skilled space holder, with a focus on his ability to rearrange a room for a better work environment.\">\n",
+				"content_text": "This week, I realised that I'd been talked about, pseudonymously, in an academic paper.  I'm \"William\" here and Tuttle is \"Kettil\" - I have no idea who it is that they refer to as \"Linda\", but thanks Lin!\r\n\r\n[journals.aom.org/doi/abs/1...](https://journals.aom.org/doi/abs/10.5465/amle.2020.0089)\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/53960449878-6cc801d90e-o.jpg\" width=\"600\" height=\"579\" alt=\"The image contains a text excerpt describing William as a skilled space holder, with a focus on his ability to rearrange a room for a better work environment.\">\n",
 				"date_published": "2024-08-31T09:49:31+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/31/this-week-i.html"
 			},
@@ -322,7 +346,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/29/a-very-tempting.html",
 				
 				"content_html": "<p>A very tempting bargain. The fact that this is in a charity shop in Jeremy Hunt’s constituency is purely coincidental.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A very tempting bargain. The fact that this is in a charity shop in Jeremy Hunt’s constituency is purely coincidental. \n\n<img src=\"uploads/2024/114db59c4d.jpg\" width=\"450\" height=\"600\" alt=\"A box of assorted ceramic clown statuettes randomly piled. On the side of the is written “Box of clowns £20” in black marker. \">\n",
+				"content_text": "A very tempting bargain. The fact that this is in a charity shop in Jeremy Hunt’s constituency is purely coincidental. \n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/114db59c4d.jpg\" width=\"450\" height=\"600\" alt=\"A box of assorted ceramic clown statuettes randomly piled. On the side of the is written “Box of clowns £20” in black marker. \">\n",
 				"date_published": "2024-08-29T12:00:34+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/29/a-very-tempting.html"
 			},
@@ -354,7 +378,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/22/i-have-zero.html",
 				
 				"content_html": "<p>I have zero interest in cars but I know beauty when I see it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I have zero interest in cars but I know beauty when I see it.\r\n\n\n<img src=\"uploads/2024/jag.png\" width=\"600\" height=\"495\" alt=\"A 1962 Jaguar (car) on a garage forecourt.  The colour is registered as 'red' but I'd call it 'maroon'\">\n",
+				"content_text": "I have zero interest in cars but I know beauty when I see it.\r\n\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/jag.png\" width=\"600\" height=\"495\" alt=\"A 1962 Jaguar (car) on a garage forecourt.  The colour is registered as 'red' but I'd call it 'maroon'\">\n",
 				"date_published": "2024-08-22T08:40:42+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/22/i-have-zero.html"
 			},
@@ -394,7 +418,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/20/teetering-on-the.html",
 				
 				"content_html": "<p>Teetering on the edge of a #ShrimpJesus rabbithole</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Teetering on the edge of a #ShrimpJesus rabbithole\n\n<img src=\"uploads/2024/7258abdb5a.jpg\" width=\"598\" height=\"600\" alt=\"\">\n",
+				"content_text": "Teetering on the edge of a #ShrimpJesus rabbithole\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/7258abdb5a.jpg\" width=\"598\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-20T05:54:20+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/20/teetering-on-the.html"
 			},
@@ -402,7 +426,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/19/same-as-it.html",
 				
 				"content_html": "<p>Same as it ever was&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Same as it ever was...\n\n<img src=\"uploads/2024/screenshot-2024-08-19-at-11.53.12.png\" width=\"600\" height=\"203\" alt=\"Screenshot of a Facebook Memory from 14 years ago - a status update that reads&quot;really needing to step away from the computer and go and do something more restful&quot;\">\n",
+				"content_text": "Same as it ever was...\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/screenshot-2024-08-19-at-11.53.12.png\" width=\"600\" height=\"203\" alt=\"Screenshot of a Facebook Memory from 14 years ago - a status update that reads&quot;really needing to step away from the computer and go and do something more restful&quot;\">\n",
 				"date_published": "2024-08-19T10:55:33+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/19/same-as-it.html"
 			},
@@ -418,7 +442,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/17/it-was-the.html",
 				
 				"content_html": "<p>It was the best of times, it was absolutely the fucking worst of times. Thatcherism was just round the corner, we had no idea.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It was the best of times, it was absolutely the fucking worst of times. Thatcherism was just round the corner, we had no idea. \n\n<img src=\"uploads/2024/3ecf25d121.jpg\" width=\"515\" height=\"600\" alt=\"A section of a 1979 group school photo in black and white. Six 14 year old boys from  the English West Midlands, in school uniform. Three in front have their arms stiffly folded. \">\n",
+				"content_text": "It was the best of times, it was absolutely the fucking worst of times. Thatcherism was just round the corner, we had no idea. \n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/3ecf25d121.jpg\" width=\"515\" height=\"600\" alt=\"A section of a 1979 group school photo in black and white. Six 14 year old boys from  the English West Midlands, in school uniform. Three in front have their arms stiffly folded. \">\n",
 				"date_published": "2024-08-17T11:15:38+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/17/it-was-the.html"
 			},
@@ -426,7 +450,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/16/i-scraped-some.html",
 				
 				"content_html": "<p>I scraped some numbers from the wayback machine captures of my twitter profile page to see what I could see.  I think at this time (2007), I thought it was more impressive to have a high follower to follow ratio.  Certainly the idea of following back everyone who followed you wasn&rsquo;t prevalent.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I scraped some numbers from the wayback machine captures of my twitter profile page to see what I could see.  I think at this time (2007), I thought it was more impressive to have a high follower to follow ratio.  Certainly the idea of following back everyone who followed you wasn't prevalent.\n\n<img src=\"uploads/2024/early-twitteri-didnt-always-follow-back-1.png\" width=\"600\" height=\"371\" alt=\"\">\n",
+				"content_text": "I scraped some numbers from the wayback machine captures of my twitter profile page to see what I could see.  I think at this time (2007), I thought it was more impressive to have a high follower to follow ratio.  Certainly the idea of following back everyone who followed you wasn't prevalent.\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/early-twitteri-didnt-always-follow-back-1.png\" width=\"600\" height=\"371\" alt=\"\">\n",
 				"date_published": "2024-08-16T15:24:00+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/16/i-scraped-some.html"
 			},
@@ -442,7 +466,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/15/so-threads-have.html",
 				
 				"content_html": "<p>So Threads have introduced &ldquo;insights&rdquo; and turns out my followers are nearly two-thirds male and three-quarters of them are aged 45-65.  This is not the picture I have in my head when I press &ldquo;publish&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So Threads have introduced \"insights\" and turns out my followers are nearly two-thirds male and three-quarters of them are aged 45-65.  This is not the picture I have in my head when I press \"publish\"\n\n<img src=\"uploads/2024/screenshot-2024-08-15-at-09.14.30.png\" width=\"520\" height=\"600\" alt=\"\">\n",
+				"content_text": "So Threads have introduced \"insights\" and turns out my followers are nearly two-thirds male and three-quarters of them are aged 45-65.  This is not the picture I have in my head when I press \"publish\"\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/screenshot-2024-08-15-at-09.14.30.png\" width=\"520\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-15T08:16:19+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/15/so-threads-have.html"
 			},
@@ -538,7 +562,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/04/123431.html",
 				
 				"content_html": "<p>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": ".\n\n<img src=\"uploads/2024/d6a08477ea.gif\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": ".\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/d6a08477ea.gif\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-04T11:34:31+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/04/123431.html"
 			},
@@ -554,7 +578,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/08/02/oh-god-another.html",
 				
 				"content_html": "<p>Oh god, another day of heartbreaking beauty…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oh god, another day of heartbreaking beauty…\n\n<img src=\"uploads/2024/71c6b7216d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Oh god, another day of heartbreaking beauty…\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/71c6b7216d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-02T08:50:02+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/08/02/oh-god-another.html"
 			},
@@ -570,7 +594,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/30/i-just-logged.html",
 				
 				"content_html": "<p>I just logged back in to last.fm for the first time in&hellip; oh, looks like nearly sixteen years.  Well, well, well.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I just logged back in to last.fm for the first time in... oh, looks like nearly sixteen years.  Well, well, well.\n\n<img src=\"uploads/2024/screenshot-2024-07-30-at-11.40.18.png\" width=\"411\" height=\"376\" alt=\"\">\n",
+				"content_text": "I just logged back in to last.fm for the first time in... oh, looks like nearly sixteen years.  Well, well, well.\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/screenshot-2024-07-30-at-11.40.18.png\" width=\"411\" height=\"376\" alt=\"\">\n",
 				"date_published": "2024-07-30T10:44:42+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/30/i-just-logged.html"
 			},
@@ -594,7 +618,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/27/singles-the-least.html",
 				
 				"content_html": "<p>Singles. (The least embarrassing ones…)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Singles. (The least embarrassing ones…)\n\n<img src=\"uploads/2024/4f1842c708.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/14ed070223.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/4bb825eed7.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/90a130f4c9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Singles. (The least embarrassing ones…)\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/4f1842c708.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://lloyddavis.micro.blog/uploads/2024/14ed070223.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://lloyddavis.micro.blog/uploads/2024/4bb825eed7.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://lloyddavis.micro.blog/uploads/2024/90a130f4c9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-27T09:15:44+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/27/singles-the-least.html"
 			},
@@ -610,7 +634,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/26/aldous-huxley-born.html",
 				
 				"content_html": "<p>Aldous Huxley, born on this day 130 years ago, died on the same day in 1963 as JFK and CS Lewis. Novelist and philosopher, who imagined a world where some sections of society were engineered to be a less intelligent ChatGPT. It’s a gorgeous day in this corner of Surrey although the A3 is a bit noisy</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Aldous Huxley, born on this day 130 years ago, died on the same day in 1963 as JFK and CS Lewis. Novelist and philosopher, who imagined a world where some sections of society were engineered to be a less intelligent ChatGPT. It’s a gorgeous day in this corner of Surrey although the A3 is a bit noisy\n\n<img src=\"uploads/2024/03a13c39d9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/1dba06f577.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Aldous Huxley, born on this day 130 years ago, died on the same day in 1963 as JFK and CS Lewis. Novelist and philosopher, who imagined a world where some sections of society were engineered to be a less intelligent ChatGPT. It’s a gorgeous day in this corner of Surrey although the A3 is a bit noisy\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/03a13c39d9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://lloyddavis.micro.blog/uploads/2024/1dba06f577.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-26T14:58:16+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/26/aldous-huxley-born.html"
 			},
@@ -618,7 +642,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/26/england-in-july.html",
 				
 				"content_html": "<p>England in July</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "England in July\n\n<img src=\"uploads/2024/6cdf0ae25d.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "England in July\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/6cdf0ae25d.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-26T11:39:17+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/26/england-in-july.html"
 			},
@@ -642,7 +666,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/25/this-diagram-contains.html",
 				
 				"content_html": "<p>This diagram contains an important message that it’s easy to miss if you’re a person like me. The board with the holes goes on the top (the end where the drawer runners are closer together) if you want to fix a table top to it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This diagram contains an important message that it’s easy to miss if you’re a person like me. The board with the holes goes on the top (the end where the drawer runners are closer together) if you want to fix a table top to it. \n\n<img src=\"uploads/2024/474ca58079.jpg\" width=\"450\" height=\"600\" alt=\"A page from the IKEA instruction manual for “Alex” drawer units clearly (with hindsight) shows one diagram for each use case\">\n",
+				"content_text": "This diagram contains an important message that it’s easy to miss if you’re a person like me. The board with the holes goes on the top (the end where the drawer runners are closer together) if you want to fix a table top to it. \n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/474ca58079.jpg\" width=\"450\" height=\"600\" alt=\"A page from the IKEA instruction manual for “Alex” drawer units clearly (with hindsight) shows one diagram for each use case\">\n",
 				"date_published": "2024-07-25T10:24:15+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/25/this-diagram-contains.html"
 			},
@@ -674,7 +698,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/24/shhh-im-counting.html",
 				
 				"content_html": "<p>Shhh. I’m counting…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shhh. I’m counting…\n\n<img src=\"uploads/2024/fc29a17e66.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Shhh. I’m counting…\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/fc29a17e66.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-24T09:05:17+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/24/shhh-im-counting.html"
 			},
@@ -722,7 +746,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/21/its-going-to.html",
 				
 				"content_html": "<p>It’s going to take a while for me to get used to seeing headlines with the new Chancellor being referred to by her surname only.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s going to take a while for me to get used to seeing headlines with the new Chancellor being referred to by her surname only.\n\n<img src=\"uploads/2024/f71d24a431.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_text": "It’s going to take a while for me to get used to seeing headlines with the new Chancellor being referred to by her surname only.\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/f71d24a431.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-21T20:40:52+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/21/its-going-to.html"
 			},
@@ -730,7 +754,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/21/spotted-taking-notes.html",
 				
 				"content_html": "<p>Spotted taking notes at Newspeak House</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spotted taking notes at Newspeak House \n\n<img src=\"uploads/2024/cd75d76d99.jpg\" width=\"600\" height=\"487\" alt=\"\">\n",
+				"content_text": "Spotted taking notes at Newspeak House \n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/cd75d76d99.jpg\" width=\"600\" height=\"487\" alt=\"\">\n",
 				"date_published": "2024-07-21T13:36:30+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/21/spotted-taking-notes.html"
 			},
@@ -762,7 +786,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/19/i-hope-that.html",
 				
 				"content_html": "<p>I hope that whoever is found to be responsibe for this get a more sensible judge than Roger Hallam and the #WholeTruth5 did</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I hope that whoever is found to be responsibe for this get a more sensible judge than Roger Hallam and the #WholeTruth5 did\n\n<img src=\"uploads/2024/c7105d30a7.jpg\" width=\"588\" height=\"600\" alt=\"\">\n",
+				"content_text": "I hope that whoever is found to be responsibe for this get a more sensible judge than Roger Hallam and the #WholeTruth5 did\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/c7105d30a7.jpg\" width=\"588\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-19T07:45:22+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/19/i-hope-that.html"
 			},
@@ -786,7 +810,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/07/18/for-his-wound.html",
 				
 				"content_html": "<p>“for his wound” - over to you, Jungians!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "“for his wound” - over to you, Jungians!\n\n<img src=\"uploads/2024/image.jpg\" width=\"600\" height=\"333\" alt=\"\">\n",
+				"content_text": "“for his wound” - over to you, Jungians!\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/image.jpg\" width=\"600\" height=\"333\" alt=\"\">\n",
 				"date_published": "2024-07-18T11:43:15+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/07/18/for-his-wound.html"
 			},
@@ -850,7 +874,7 @@
 				"id": "http://lloyddavis.micro.blog/2024/06/25/hello-microblog-world.html",
 				
 				"content_html": "<p>Hello micro.blog world. It me!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hello micro.blog world. It me!\n\n\n<img src=\"uploads/2024/b7fbde3f92.jpg\" width=\"198\" height=\"203\" alt=\"\">\n",
+				"content_text": "Hello micro.blog world. It me!\n\n\n<img src=\"https://lloyddavis.micro.blog/uploads/2024/b7fbde3f92.jpg\" width=\"198\" height=\"203\" alt=\"\">\n",
 				"date_published": "2024-06-25T13:59:32+00:00",
 				"url": "https://lloyddavis.micro.blog/2024/06/25/hello-microblog-world.html"
 			}
